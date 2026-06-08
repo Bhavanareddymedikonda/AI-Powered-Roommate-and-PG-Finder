@@ -38,15 +38,18 @@ AI-Powered Roommate & PG Finder is a full-stack web application that helps users
 - Scikit-Learn
 - Random Forest Regressor
 
-## Architecture
 
-Frontend (React)
-↓
-Backend (Node.js + Express)
-↓
-MongoDB
-↓
-ML API (Flask + Random Forest)
+## System Architecture
+
+Frontend (React.js)
+        ↓
+Backend (Node.js + Express.js)
+        ↓
+MongoDB Database
+        ↓
+Flask ML Service
+        ↓
+Random Forest Compatibility Model
 
 ## Future Enhancements
 
